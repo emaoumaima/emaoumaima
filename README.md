@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="https://i.imgur.com/gtISwWH.png"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi...;I+am+Oumaima%2C+a+Software+Engineer.;Open+to+collaborations+on+projects;Fun+fact%3A+I+love+graphic+design%2C+volunterring%2C+eating%2C+watching+animations.)](https://git.io/typing-svg)
 
 <!--
 **emaoumaima/emaoumaima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

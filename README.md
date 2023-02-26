@@ -1,6 +1,6 @@
 ## /ᐠ｡ꞈ｡ᐟ\ ∫ Hi 👋 I'm Oumaima SLL✨
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D3CADF&width=435&lines=A+Software+Engineer..;Passionate+Full-Stack+Web+Developer;Learning+Data+Analysis+and+ML;Open+to+collaborations+on+projects;Fun+fact%3A+love+cats!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D3CADF&width=435&lines=A+Software+Engineer..;Passionate+Full-Stack+Web+Developer;Learning+Data+Analysis+and+ML;Open+to+collaborations+on+projects;Fun+fact%3A+I+love+cats!)](https://git.io/typing-svg)
 
 ***
 ## Skills

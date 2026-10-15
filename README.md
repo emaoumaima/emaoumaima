@@ -1,6 +1,17 @@
 ## /ᐠ｡ꞈ｡ᐟ\ ∫ Hi 👋 I'm Oumaima SLL✨
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D3CADF&width=435&lines=A+Software+Engineer..;Data+&+AI;➡️+Building+secure,+data-driven,+and+intelligent+solutions+for+the+web+and+beyond.;Open+to+collaborations+on+projects;Fun+fact%3A+I+love+cats!)](https://git.io/typing-svg)
+<div align="center">
+
+# Hi 👋, I'm Oumaima Sellouane
+### Software Engineer | DataOps & Data Quality | QA Automation
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/emaoumaima)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sellouane.oumaima@gmail.com)
+
+> 🐾 *Turning raw data into tested, reliable architectures.*
+
+</div>
 
 ***
 ## About Me

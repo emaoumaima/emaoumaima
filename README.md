@@ -1,8 +1,7 @@
-## /ᐠ｡ꞈ｡ᐟ\ ∫ Hi 👋 I'm Oumaima SLL✨
 
 <div align="center">
 
-# Hi 👋, I'm Oumaima Sellouane
+# Hi 👋, I'm Oumaima SLL
 ### Software Engineer | DataOps & Data Quality | QA Automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -45,6 +44,7 @@
 
 <!--
 **emaoumaima/emaoumaima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## /ᐠ｡ꞈ｡ᐟ\ ∫ Hi 👋 I'm Oumaima SLL✨
 
 Here are some ideas to get you started:
 
